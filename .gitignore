@@ -1,1 +1,4 @@
 error.log
+# to ignore the file whose extension is .log
+*.log
+ignoring Dir
