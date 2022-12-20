@@ -4,3 +4,4 @@ error.log
 #if you want to make directory to ignore which is only current folder use / before name like ignore the directory which is in current folder
 #or if you want to ignor the all directory of same name then don't use / before it, it will assume as all folder be ignored
 ignoring Dir
+home44.html
